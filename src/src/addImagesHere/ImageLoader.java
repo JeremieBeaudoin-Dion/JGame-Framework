@@ -37,7 +37,8 @@ public class ImageLoader extends LoaderOfImages {
      */
     private void loadAllImages() throws IOException {
 
-        BufferedImage desiredImage = toCompatibleImage(ImageIO.read(new File("Example.png")));
+        // Example of use
+        // BufferedImage desiredImage = toCompatibleImage(ImageIO.read(new File("Example.png")));
 
     }
 
