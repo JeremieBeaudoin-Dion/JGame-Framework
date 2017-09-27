@@ -29,6 +29,10 @@ public class ImageLoader extends LoaderOfImages {
 
     /**
      * Loads all image from file
+     *
+     * Do remember to use toCompatibleImage() which greatly increases the performance
+     * of images.
+     *
      * @throws IOException : if the image is missing
      */
     private void loadAllImages() throws IOException {
