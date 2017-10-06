@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/KeyboardActionMove.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/KeyboardActionMoveDown.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/KeyboardActionMoveLeft.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/KeyboardActionMoveRight.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/KeyboardActionMoveUp.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/MouseClickAction.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/MouseLeftClickAction.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/actionOfGameHere/actions/MouseRightClickAction.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/addGameObjectsHere/Example_Button.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/addGameObjectsHere/Example_Circle.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/addGameObjectsHere/Example_Image.java" charset="UTF-16" />
@@ -23,11 +15,11 @@
     <file url="file://$PROJECT_DIR$/src/src/core/LoaderOfImages.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/MouseHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/Action.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/coreActions/ActionTimed.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEvent.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEventNew.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEventQuit.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/InputActionKeyMap.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/coreActions/TimedAction.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/Camera.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/PhysicalObjectMoving.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/Velocity.java" charset="UTF-16" />
