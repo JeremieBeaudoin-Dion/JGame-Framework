@@ -16,14 +16,18 @@
     <file url="file://$PROJECT_DIR$/src/src/addGameObjectsHere/camera/CameraStill.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/addGameThreadCreatorHere/GameThreadContentManager.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/addGameThreadCreatorHere/GameThreadCreator.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/addImagesHere/ImageLoader.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/addImageLoaderHere/ImageLoader.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/ActionHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/GameThread.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/core/KeyHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/LoaderOfImages.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/core/MouseHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/Action.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEvent.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEventNew.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEventQuit.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/coreActions/InputActionKeyMap.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/coreActions/TimedAction.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/Camera.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/PhysicalObjectMoving.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/Velocity.java" charset="UTF-16" />
