@@ -20,6 +20,12 @@
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEventNew.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEventQuit.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/InputActionKeyMap.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/display/Displayable.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/display/DisplayableImage.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/display/DisplayableShape.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/display/DisplayableShapeFilled.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/display/DisplayableShapeOutline.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/physicalObjects/BoundingArea.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/Camera.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/PhysicalObjectMoving.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/physicalObjects/Velocity.java" charset="UTF-16" />
