@@ -11,9 +11,11 @@
     <file url="file://$PROJECT_DIR$/src/src/addImageLoaderHere/ImageLoader.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/ActionHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/GameThread.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/core/GameThreadSerialized.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/KeyHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/LoaderOfImages.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/core/MouseHandler.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/core/ThreadManager.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/Action.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/ActionTimed.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/coreActions/GameThreadEvent.java" charset="UTF-16" />
