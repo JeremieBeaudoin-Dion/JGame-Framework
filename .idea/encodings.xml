@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/src/example/addGameObjectsHere/Example_Button.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/example/addGameObjectsHere/Example_Image.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/example/addGameObjectsHere/Example_Wall.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/example/addGameObjectsHere/Player.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/example/addGameObjectsHere/camera/CameraStill.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/example/addGameThreadCreatorHere/GameThreadContentManager.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/example/addImageLoaderHere/ImageLoader.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/ActionHandler.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/GameThread.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/GameThreadSerialized.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/collections/InputActionKeyMap.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/KeyHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/LoaderOfImages.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/MouseHandler.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/ThreadManager.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/ActionHandler.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/GameThread.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/GameThreadSerialized.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/ThreadManager.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/Action.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/ActionTimed.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/GameThreadEvent.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/GameThreadEventNew.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/GameThreadEventQuit.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/InputActionKeyMap.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/display/Displayable.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/display/DisplayableImage.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/display/DisplayableShape.java" charset="UTF-16" />
