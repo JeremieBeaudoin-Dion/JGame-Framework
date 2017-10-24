@@ -2,13 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/collections/InputActionKeyMap.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/collections/ResourceKeyMap.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/KeyHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/LoaderOfImages.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/MouseHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/ActionHandler.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/GameThread.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/GameThreadSerialized.java" charset="UTF-16" />
-    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/core/threadObjects/ThreadManager.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/Action.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/ActionTimed.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/coreActions/GameThreadEvent.java" charset="UTF-16" />
@@ -20,6 +20,7 @@
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/display/DisplayableShapeFilled.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/display/DisplayableShapeOutline.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/exceptions/ActionInvocationException.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/src/jGameFramework/exceptions/UnimplementedKeyException.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/physicalObjects/BoundingArea.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/physicalObjects/Camera.java" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/src/src/jGameFramework/physicalObjects/PhysicalObjectMoving.java" charset="UTF-16" />
